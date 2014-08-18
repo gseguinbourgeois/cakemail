@@ -1,6 +1,6 @@
 #CakeMail Technical Test
 
-At CakeMail we believe that hiring a developer, or anyone for that matter, is  a great opportunity, but also a risk. Ensuring a personal fit in the team can be judged from an interview. But to assess if a developer has the necessary skills to work on our projects, we provide a technical test. Although this test is an important part of our hiring process, please be aware that we're not asking you to spend too much time it. We prefer seeing a small amount of quality code over large amounts of lower quality code. Less is more.
+At CakeMail we believe that hiring a developer, or anyone for that matter, is  a great opportunity, but also a risk. Ensuring a personal fit in the team can be judged from an interview. But to assess if a developer has the necessary skills to work on our projects, we provide a technical test. Although this test is an important part of our hiring process, please be aware that we're not asking you to spend too much time on it. We prefer seeing a small amount of quality code over large amounts of lower quality code. Less is more.
 
 
 ##The test
