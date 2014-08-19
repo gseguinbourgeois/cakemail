@@ -8,7 +8,7 @@ At CakeMail we believe that hiring a developer, or anyone for that matter, is  a
 The test is not of the typical question/answer type. We actually have you write code. Not just snippets of code, but an actual working, albeit small and not so useful, application.
 
 ### Requirements
-For this test you will be writing a web API in PHP for managing todo lists. It has the following requirements:
+For this test you will be writing a REST API in PHP for managing todo lists. It has the following requirements:
 
 1. It needs to provide a way to get, create, modify and delete todo lists.
 2. It needs to provide a way to manage todo items in these lists. This includes marking a todo as done, and getting a list of only the ones that haven't been done yet. 
