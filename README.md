@@ -1,4 +1,5 @@
 #CakeMail Technical Test
+*Build a Todo list REST API*
 
 At CakeMail we believe that hiring a developer, or anyone for that matter, is  a great opportunity, but also a risk. Ensuring a personal fit in the team can be judged from an interview. But to assess if a developer has the necessary skills to work on our projects, we provide a technical test. Although this test is an important part of our hiring process, please be aware that we're not asking you to spend too much time on it. We prefer seeing a small amount of quality code over large amounts of lower quality code. Less is more.
 
@@ -8,10 +9,10 @@ At CakeMail we believe that hiring a developer, or anyone for that matter, is  a
 The test is not of the typical question/answer type. We actually have you write code. Not just snippets of code, but an actual working, albeit small and not so useful, application.
 
 ### Requirements
-For this test you will be writing a REST API in PHP for managing todo lists. It has the following requirements:
+For this test you will be writing a REST API in PHP for managing multiple todo lists which provides a way to manage *todo lists* and *todo items*. It has the following requirements:
 
 1. It needs to provide a way to get, create, modify and delete todo lists.
-2. It needs to provide a way to manage todo items in these lists. This includes marking a todo as done, and getting a list of only the ones that haven't been done yet. 
+2. It needs to provide a way to manage todo items within todo lists. This includes marking a todo as done, and getting a list of only the ones that haven't been done yet. 
 3. In needs to have a simple authentication system. It's up to you to decide how you implement this, but keep it simple. Its only goal is to limit API use to our only user.
 
 For storage, a standard MySQL database is OK. But feel free to use something else if you're more comfortable with it.
@@ -19,8 +20,8 @@ For storage, a standard MySQL database is OK. But feel free to use something els
 ###Out of scope
 The goal of this exercise is to asses your technical capabilities, but it would be unreasonable to ask for a complete application, so some aspects will be left out of scope. The following is out of scope, and implementing them will not get you bonus points. We prefer a well executed small application over a larger application with less attention to detail.
 
-1. User management. There's only one user.
-2. A front-end. We're only asking for an API, no forms.
+1. Don't implement user management. There's only one user.
+2. We're only asking for a REST API, **no frontend, no html**
 
 ###What do we look at?
 Of course we will be looking at the quality of your code, but more specifically we're looking at the points below. Of course, each point is to some extent objective, so don't try the find the right answer. Instead, consider them as hints of what we'll be looking at, and do what you consider the best way to write the application.
